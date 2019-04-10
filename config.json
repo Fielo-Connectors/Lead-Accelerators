@@ -1,0 +1,11 @@
+{
+	"type":"repository",
+	"version":"master",
+	"dependencies":[
+		{
+			"type":"linkRepository",
+			"version":"master",
+			"name":"FieloIncentiveAutomation/fielodeploy"
+		}
+	]
+}
