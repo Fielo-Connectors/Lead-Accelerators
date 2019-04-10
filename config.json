@@ -1,6 +1,11 @@
 {
 	"type":"repository",
 	"version":"master",
+	"category":"Sales Cloud",
+	"Name":"Lead",
+	"Image":"www.testlead.com",
+	"Description":"Get the Following Boosters: Increase the Number of Leads, Increase the Lead´s Conversion Rate, Reduce the time to convert a Lead",
+	
 	"dependencies":[
 		{
 			"type":"linkRepository",
